@@ -216,4 +216,4 @@ Livewire is offered as a **full free version**, meaning all features are include
 Unlock your electronic design potential today by [downloading Livewire for free](https://www.softyne.com/livewire) and start creating amazing circuits!
 
 ---
-**Last updated:** 2026-09-25 22:05:36 UTC
+**Last updated:** 2026-09-26 01:18:20 UTC
